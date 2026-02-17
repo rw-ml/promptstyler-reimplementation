@@ -4,7 +4,7 @@ This is an unofficial Implementation of the said methods,
 PromptStyler https://promptstyler.github.io/
 CAR-FT: https://arxiv.org/abs/2211.16175.
 
-CAR-FT did not work remotely as good as it should be (and the implementation is not quite perfect),
+CAR-FT experiments were exploratory and did not reproduce reported results under my setup.
 PromptStyler has slight differences in performance, but works in general
 ## Getting Started
 
